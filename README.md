@@ -1,5 +1,5 @@
 # api-python
-* Desenvolvimento de uma api em python utilizando flask, sqlalchemy e sqlite
+* Desenvolvimento de uma api em python utilizando flask, sqlalchemy e sqlite para estudo
 
 # Guia
 
